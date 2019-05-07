@@ -3,7 +3,7 @@
 ---
 
 ### **Descriçao:** 
-### O projeo consiste em um site de hotel para cachorros para que você possa viajar e deixar seu cachorro. 
+ O projeo consiste em um site de hotel para cachorros para que você possa viajar e deixar seu cachorro. 
 
 ### **Público-Alvo**:
 ### O público-alvo do projeto consiste nos clientes que tem cachorro e dos funcionários que trabalham no hotelzinho - Cuidador e Veterinário.
@@ -14,7 +14,7 @@
 ### **Estratégia de extração de dados**:
 ### Foi feito um *brainstorm*  e serão realizadas algumas consultas com pessoas que possuem contato com muitos cachorros.
 
-### **Conversas com  clientes###:
+### **Conversas com  clientes**:
 ### Em construção.
 
 ### **Requisitos Funcionais**:
