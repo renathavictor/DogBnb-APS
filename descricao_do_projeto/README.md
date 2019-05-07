@@ -51,7 +51,7 @@ Serão consultados Petshops para auxiliar nas necessidades do projeto, por ter m
 
     4.3 Cadastrar 
 
-5. Cadastrar vendas
+5. Cadastrar vendas **(Refatorar)**
 
     5.1 Cadastrar produtos de venda
 
@@ -62,3 +62,25 @@ Serão consultados Petshops para auxiliar nas necessidades do projeto, por ter m
     6.1 Cadastrar qual animal consultado
 
     6.2 Cadastrar prontuário do animal
+
+7. Cadastrar hospedagem
+
+    7.1 cadastrar dias 
+    
+    7.2 cadastrar relação entre animal e hospedagem
+
+    7.3 cadastrar relação entre consulta e hospedagem
+
+    7.4 cadastrar o pagamento
+
+
+### **Requisitos Não-Funcionais**:
+1. O sistema deve ter baixo tempo de resposta
+
+2. O paradigma utilizado será Orientado à Objetos
+
+3. A arquitetura do sistema deve ser a MVC
+
+4. O backend será desacoplado através de API
+
+5. O frontend será baseado em Single-page Application
