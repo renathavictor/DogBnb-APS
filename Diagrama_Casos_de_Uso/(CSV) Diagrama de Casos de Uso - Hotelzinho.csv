@@ -1,0 +1,35 @@
+Id,Nome,Biblioteca de formas,ID da p´ágina,Contido por,Grupo,Origem da linha,Destino da linha,Seta de origem,Seta de destino,Área de texto 1
+1,Página,,,,,,,,,Página 1
+2,Ator,UML,1,,,,,,,Usuário
+3,Caso de uso,UML,1,6,,,,,,Cadastrar no sistema
+4,Ator,UML,1,,,,,,,Cliente
+5,Ator,UML,1,,,,,,,Funcionário
+6,Contêiner retangular,UML,1,,,,,,,Casos
+7,Caso de uso,UML,1,6,,,,,,Logar no sistema
+8,Caso de uso,UML,1,6,,,,,,Reservar hospedagem
+9,Texto,UML,1,6,,,,,,<< include >>
+10,Texto,UML,1,6,,,,,,<< extend >>
+11,Caso de uso,UML,1,6,,,,,,Cancelar hospedagem
+12,Texto,UML,1,6,,,,,,<< include >>
+13,Texto,UML,1,6,,,,,,<< include >>
+14,Caso de uso,UML,1,6,,,,,,Adicionar/alterar Serviços
+15,Texto,UML,1,6,,,,,,<< extend >>
+16,Caso de uso,UML,1,6,,,,,,Avaliar o hotelzinho
+17,Caso de uso,UML,1,6,,,,,,Gerar relatórios
+18,Caso de uso,UML,1,6,,,,,,Enviar divulgação
+19,Caso de uso,UML,1,6,,,,,,Gerenciar serviços
+20,Linha,,1,,,4,4,None,None,
+21,Linha,,1,,,4,2,None,Generalization,
+22,Linha,,1,,,5,2,None,Generalization,
+23,Linha,,1,,,7,3,Open Arrow,None,
+24,Linha,,1,,,11,8,None,Open Arrow,
+25,Linha,,1,,,8,7,None,Open Arrow,
+26,Linha,,1,,,2,8,None,None,
+27,Linha,,1,,,2,11,None,None,
+28,Linha,,1,,,11,7,None,Open Arrow,
+29,Linha,,1,,,2,3,None,None,
+30,Linha,,1,,,14,8,None,Open Arrow,
+31,Linha,,1,,,4,16,None,None,
+32,Linha,,1,,,5,17,None,None,
+33,Linha,,1,,,5,18,None,None,
+34,Linha,,1,,,5,19,None,None,
