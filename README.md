@@ -12,6 +12,8 @@
 #### [Diagrama de Casos de Classes](https://github.com/renathavictor/DogBnb-APS/tree/master/Diagrama_de_classes)
 #### [Diagrama de Atividades](https://github.com/renathavictor/DogBnb-APS/tree/master/Diagrama_de_atividades) *Novo!!*
 #### [Diagrama de Sequencia](https://github.com/renathavictor/DogBnb-APS/tree/master/Diagrama_de_sequencia) *Novo!!*
+#### [Diagrama de Pacotes](https://github.com/renathavictor/DogBnb-APS/tree/master/Diagrama_de_pacotes) *Novo!!*
+#### [Diagrama de Componentes](https://github.com/renathavictor/DogBnb-APS/tree/master/Diagrama_de_componentes) *Novo!!*
 ---
 
 ### Integrantes
