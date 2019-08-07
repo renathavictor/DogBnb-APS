@@ -8,4 +8,4 @@
 ![Diagrama 2 - Fazer reserva](https://i.imgur.com/QXShi9v.jpg "Diagrama 2 - Fazer reserva")
 
 ##### Diagrama 3 - Adicionar serviço na reserva
-![Diagrama 3 - Adicionar serviço na reserva](https://404 "Diagrama 3 - Adicionar serviço na reserva")
+![Diagrama 3 - Adicionar serviço na reserva](https://i.imgur.com/3nPtBze.png "Diagrama 3 - Adicionar serviço na reserva")
