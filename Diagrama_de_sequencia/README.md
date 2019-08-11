@@ -5,7 +5,7 @@
 ![Diagrama 1 - Cadastrar](https://i.imgur.com/e2SjqS6.png "Diagrama 1 - Cadastrar")
 
 ##### Diagrama 2 - Fazer reserva
-![Diagrama 2 - Fazer reserva](https://i.imgur.com/QXShi9v.jpg "Diagrama 2 - Fazer reserva")
+![Diagrama 2 - Fazer reserva](https://i.imgur.com/0cPRkXw.png "Diagrama 2 - Fazer reserva")
 
 ##### Diagrama 3 - Adicionar serviço na reserva
 ![Diagrama 3 - Adicionar serviço na reserva](https://i.imgur.com/3nPtBze.png "Diagrama 3 - Adicionar serviço na reserva")
